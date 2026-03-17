@@ -1,53 +1,44 @@
-# ☕ Estruturas de Dados e Algoritmos em Java
+# 🚀 Alura Space
 
-Este repositório reúne meus estudos práticos sobre **Estruturas de Dados** e **Algoritmos**, desenvolvidos inteiramente em **Java**.
-
-O principal objetivo deste projeto é fortalecer a lógica de programação e compreender os conceitos fundamentais da linguagem, sem depender de abstrações fornecidas por IDEs modernas.
+Projeto web desenvolvido com Django que simula uma galeria de imagens espaciais, permitindo visualizar, pesquisar e filtrar conteúdos relacionados ao universo.
 
 ---
 
-## 🛠️ Ambiente de Desenvolvimento
+## 🧠 Sobre o projeto
 
-Este projeto foi desenvolvido com foco no entendimento do funcionamento interno do Java:
+O **Alura Space** é uma aplicação web construída durante os estudos de Django, com o objetivo de praticar conceitos como:
 
-- **Editor de Texto:** Notepad++
-- **Compilação:** Manual via `javac` no Prompt de Comando (CMD)
-- **Execução:** JVM via terminal
-- **Versão do Java:** JDK 17+
+- Estrutura de projetos Django
+- Renderização de templates
+- Manipulação de dados
+- Filtros e buscas
+- Organização de arquivos estáticos
 
----
-
-## 📁 Estrutura do Repositório
-
-O projeto está organizado em pastas temáticas, abrangendo desde conceitos básicos até estruturas mais avançadas.
-
-### 🔢 Algoritmos de Ordenação (Sorting)
-
-- `bubble_sort` → Implementação do algoritmo Bubble Sort
-- `merge_sort` → Ordenação utilizando a estratégia "Dividir e Conquistar"
-- `quick_sort` → Algoritmo eficiente baseado em particionamento e pivôs
-
-### 🔗 Estruturas de Dados
-
-- `lista_encadeada_simples` → Lista ligada com encadeamento simples
-- `lista_encadeada_dupla` → Lista com referências para próximo e anterior
-- `circular/src` → Estruturas de dados circulares
-
-### 🧠 Conceitos e Lógica
-
-- `recursividade` → Exemplos práticos de recursão
-- `fatorial` / `potencia` → Exercícios clássicos de lógica
-- `exemplo_objeto` → Prática de Programação Orientada a Objetos (POO)
-- `arquivos` → Leitura e escrita de arquivos
-- `pagina` → Estudos sobre paginação e memória
+A aplicação funciona como um sistema de exibição de imagens com informações detalhadas.
 
 ---
 
-## 🚀 Como Executar
+## 🛠️ Tecnologias utilizadas
 
-Para executar os exemplos, é necessário ter o JDK instalado e configurado no `PATH`.
+- Python 3
+- Django
+- HTML5
+- CSS3
+- JavaScript
+- SQLite (banco padrão do Django)
 
-1. Abra o Prompt de Comando (CMD)
-2. Navegue até a pasta do arquivo desejado:
-   ```cmd
-   cd nome_da_pasta
+---
+
+## ⚙️ Funcionalidades
+
+- 📸 Listagem de imagens
+- 🔍 Busca por nome
+- 🏷️ Filtro por categorias
+- 📄 Página de detalhes da imagem
+- ⚙️ Administração via Django Admin
+
+Essas funcionalidades são comuns nesse tipo de projeto educacional com Django :contentReference[oaicite:0]{index=0}
+
+---
+
+## 📁 Estrutura do projeto
