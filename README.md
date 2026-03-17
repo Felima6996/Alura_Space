@@ -42,3 +42,11 @@ Essas funcionalidades são comuns nesse tipo de projeto educacional com Django :
 ---
 
 ## 📁 Estrutura do projeto
+
+Alura_Space/
+│
+├── apps/
+├── static/
+├── templates/
+├── manage.py
+└── requirements.txt
